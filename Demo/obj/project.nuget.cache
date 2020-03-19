@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7Bis7W+PkMGOF1a/hwM6/qItdgFU0nFK286vi3BULkh+D/z0EVBsFBkE08E+2zSKxY3uF6J9L37SLzNe5pJcw==",
+  "success": true,
+  "projectFilePath": "/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/monchkrit/.nuget/packages/mstest.testframework/2.1.0/mstest.testframework.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

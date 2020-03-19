@@ -1,0 +1,16 @@
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.csprojAssemblyReference.cache
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/home/monchkrit/Code-House/ProgrammingCSharp8/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
